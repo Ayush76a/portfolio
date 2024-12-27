@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Navbar from "./components/navbar";
+import Footer from "./components/footer";
 
 
 export const metadata: Metadata = {
@@ -14,7 +15,7 @@ export default function RootLayout({children,}: Readonly<{children: React.ReactN
       <body>
       <Navbar />
         {children}
-      <footer />
+      <Footer />
       </body>
     </html>
   );
