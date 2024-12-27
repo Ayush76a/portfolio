@@ -11,7 +11,7 @@ import foot from "../../../public/assets/photos/AV.png";
 const Footer = () => {
   return (
     <div>
-        <footer className="text-gray-600 body-font">
+        <footer className=" bg-blue-50 text-gray-600 body-font">
         <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
             <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
             
@@ -29,7 +29,7 @@ const Footer = () => {
                 <FaLinkedin className='text-2xl hover:text-[#0a84f0]' />
             </Link>
             <Link target='_blank' href={"https://github.com/Ayush76a"} className="ml-3 text-gray-500">
-               <FaSquareGithub className='text-2xl hover:text-[#f50a2d]' />
+               <FaSquareGithub className='text-2xl hover:text-[#f70c24]' />
             </Link>
             <Link target='_blank' href={"https://x.com/Sphinx__A"} className="ml-3 text-gray-500">
                 <FaSquareXTwitter className='text-2xl hover:text-[#1c1c1a]' />
