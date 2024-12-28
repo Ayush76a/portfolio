@@ -15,16 +15,16 @@ import CalculatorPic from "../../../public/assets/Projects/LuvCalculator.png";
 
 const Project = () => {
   return (
-    <div>
+    <div id="Project">
         <section className="text-gray-600 body-font custom-image2">
         <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
-            <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">
+            <h1 className="sm:text-4xl text-4xl font-medium title-font mb-2 text-white">
                 Recent Projects
             </h1>
         </div>
 
-            <div className="flex flex-wrap -m-4">
+            <div className="flex flex-wrap -m-4 ">
             
             {/* Projects */}
 
@@ -43,7 +43,7 @@ const Project = () => {
                     <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                     Book Nest
                     </h1>
-                    <p className="leading-relaxed">
+                    <p className="leading-relaxed line-clamp-2">
                     This is a Library management app with role-based user access. Three roles are defined: Admin, Librarian, and Members. 
                     </p>
                     
@@ -80,7 +80,7 @@ const Project = () => {
                     <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                     Mess-Relay
                     </h1>
-                    <p className="leading-relaxed">
+                    <p className="leading-relaxed line-clamp-2">
                     This is a Mess management app that solves the problems of mess-menu management, complaints and expense tracking. 
                     </p>
                     
@@ -116,7 +116,7 @@ const Project = () => {
                     <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                     Vastukaar
                     </h1>
-                    <p className="leading-relaxed">
+                    <p className="leading-relaxed line-clamp-2">
                     An Inventory and Stock Management Solution designed to help businesses manage products in real time and enhance operational efficiency.
                     </p>
                     
@@ -152,7 +152,7 @@ const Project = () => {
                     <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                     Task Manager
                     </h1>
-                    <p className="leading-relaxed">
+                    <p className="leading-relaxed line-clamp-2">
                     Simple Task Manager is a React-based web application that allows users to manage tasks efficiently. 
                     </p>
                     
@@ -189,7 +189,7 @@ const Project = () => {
                     <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                     Portfolio
                     </h1>
-                    <p className="leading-relaxed">
+                    <p className="leading-relaxed line-clamp-2">
                     This is Portfolio website made with Next.js, Tailwind Css and TailBlocks.
                     </p>
                     
@@ -225,7 +225,7 @@ const Project = () => {
                     <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                     Luv Calculator
                     </h1>
-                    <p className="leading-relaxed">
+                    <p className="leading-relaxed line-clamp-2">
                     A luv percentage calculator made using HTML, CSS, Javascript.
                     </p>
                     

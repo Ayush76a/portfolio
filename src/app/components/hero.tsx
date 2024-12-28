@@ -23,7 +23,7 @@ const Hero = () => {
                 />
             </h1>
             <div className='w-[100px] h-[2px] bg-blue-300' ></div>
-            <p className="mb-8 mt-5 leading-relaxed">
+            <p className="mb-8 mt-5 font-medium leading-relaxed">
             My name is Ayush Vishwakarma, a skilled Full Stack Web Developer with a passion for building dynamic, user-friendly, and efficient web applications. Currently pursuing my final year of B.Tech at MNNIT Allahabad, I specialize in MERN Stack development, including technologies like React.js, Node.js, Express.js, MongoDB, and related tools.
             </p>
             
@@ -40,7 +40,7 @@ const Hero = () => {
             <Image
                 className="object-cover object-center rounded"
                 alt="hero"
-                width={300}
+                width={250}
                 height={300}
                 src={profilePic}
             />
