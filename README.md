@@ -5,12 +5,12 @@ Portfolio website made with Next.js and Tailwind Css.
 https://ayushvishwakarma.netlify.app/
 
 ## TechStack Used 
-  Next.js
+  1. Next.js
   
-  Tailwind CSS
+  2. Tailwind CSS
   
-  TailBlocks
+  3. TailBlocks
   
-  React-icons
+  4. React-icons
   
-  Typewriter-effect
+  5. Typewriter-effect
