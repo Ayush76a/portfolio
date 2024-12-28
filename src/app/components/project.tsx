@@ -200,7 +200,7 @@ const Project = () => {
                         </p>
                     </Link>
 
-                    <Link target="_blank" href={"https://messrelay.netlify.app/"}>
+                    <Link target="_blank" href={"https://ayushvishwakarma.netlify.app/"}>
                         <p className="flex items-center leading-relaxed text-blue-500 hover:underline">
                             View Project <FaExternalLinkSquareAlt className="ml-2" />
                         </p>
