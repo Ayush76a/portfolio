@@ -26,13 +26,13 @@ const Footer = () => {
 
             <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
             <Link target='_blank' href={"https://www.linkedin.com/in/ayush-vishwakarma-76abc/"} className="text-gray-500">
-                <FaLinkedin className='text-2xl hover:text-[#0a84f0]' />
+                <FaLinkedin className='text-3xl hover:text-[#0a84f0]' />
             </Link>
             <Link target='_blank' href={"https://github.com/Ayush76a"} className="ml-3 text-gray-500">
-               <FaSquareGithub className='text-2xl hover:text-[#f70c24]' />
+               <FaSquareGithub className='text-3xl hover:text-[#f70c24]' />
             </Link>
             <Link target='_blank' href={"https://x.com/Sphinx__A"} className="ml-3 text-gray-500">
-                <FaSquareXTwitter className='text-2xl hover:text-[#1c1c1a]' />
+                <FaSquareXTwitter className='text-3xl hover:text-[#1c1c1a]' />
             </Link>
             </span>
 

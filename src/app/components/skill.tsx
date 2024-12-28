@@ -14,7 +14,7 @@ const Skill = () => {
   ];
 
   return (
-    <div id="Skills" className="bg-gradient-to-b from-gray-800 to-gray-900 text-white py-24 custom-image">
+    <div id="Skills" className="bg-gradient-to-b from-gray-800 to-gray-900 text-white py-24 custom-image2">
       <section className="text-gray-300 body-font">
         <div className="container px-5 mx-auto">
           <div className="flex flex-col text-center w-full mb-12">
