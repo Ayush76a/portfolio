@@ -45,7 +45,7 @@ const Contact = () => {
               Contact Me
             </h2>
             <p className="leading-relaxed text-blue-300 mt-10">
-              I'm currently looking for full-time Full Stack Web Developer/Backend Developer
+              I am currently looking for full-time Full Stack Web Developer/Backend Developer
               opportunities! If you know of any positions available, if you have any
               questions, or if you just want to say hi, please feel free to mail me at{' '}
               <a href="mailto:ayush76a@gmail.com" className="text-blue-400 font-medium">
