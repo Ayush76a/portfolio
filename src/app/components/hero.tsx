@@ -24,7 +24,7 @@ const Hero = () => {
             </h1>
             <div className='w-[100px] h-[2px] bg-blue-300' ></div>
             <p className="mb-8 mt-5 font-medium leading-relaxed">
-            My name is Ayush Vishwakarma, a skilled Full Stack Web Developer with a passion for building dynamic, user-friendly, and efficient web applications. Currently pursuing my final year of B.Tech at MNNIT Allahabad, I specialize in MERN Stack development, including technologies like React.js, Node.js, Express.js, MongoDB, and related tools.
+            Hi, I'm Ayush Vishwakarma! I'm a Full Stack Web Developer who loves creating dynamic, user-friendly, and efficient web applications. I'm in my final year of B.Tech at MNNIT Allahabad, specializing in MERN Stack development with technologies like React.js, Node.js, Express.js, and MongoDB. When I'm not coding, you can find me enjoying computer games—it’s my favorite way to unwind and keep my problem-solving skills sharp!
             </p>
             
             <div className="flex justify-center">
