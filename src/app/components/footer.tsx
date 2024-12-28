@@ -5,7 +5,7 @@ import { FaSquareGithub } from "react-icons/fa6";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import Image from 'next/image';
 
-import foot from "../../../public/assets/photos/AV.png";
+import foot from "../../../public/assets/Photos/AV.png";
 
 
 const Footer = () => {

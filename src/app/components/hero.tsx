@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import profilePic from "../../../public/assets/photos/ProfilePic.png";
+import profilePic from "../../../public/assets/Photos/ProfilePic.png";
 import Image from 'next/image';
 import Typewriter from 'typewriter-effect';
 import Link from 'next/link';
