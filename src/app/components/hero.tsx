@@ -24,7 +24,7 @@ const Hero = () => {
             </h1>
             <div className='w-[100px] h-[2px] bg-blue-300' ></div>
             <p className="mb-8 mt-5 font-medium leading-relaxed">
-            Hi, I'm Ayush Vishwakarma! I'm a Full Stack Web Developer who loves creating dynamic, user-friendly, and efficient web applications. I'm in my final year of B.Tech at MNNIT Allahabad, specializing in MERN Stack development with technologies like React.js, Node.js, Express.js, and MongoDB. When I'm not coding, you can find me enjoying computer games—it’s my favorite way to unwind and keep my problem-solving skills sharp!
+            Hi, I am Ayush Vishwakarma, a Full Stack Web Developer who loves creating dynamic, user-friendly, and efficient web applications. I am in my final year of B.Tech at MNNIT Allahabad, specializing in MERN Stack development with technologies like React.js, Node.js, Express.js, and MongoDB. When not coding, you can find me enjoying computer games—its my favorite way to unwind and keep my problem-solving skills sharp!
             </p>
             
             <div className="flex justify-center">
