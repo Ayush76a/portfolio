@@ -4,7 +4,7 @@ Portfolio website made with Next.js and Tailwind CSS. It consist of 4 sections i
 ## Live Link  
 [https://ayushvishwakarma.netlify.app/](https://ayushvishwakarma.netlify.app/)  
 
-## Tech Stack Used  
+## Tech Stack used  
 1. **Next.js**  
    - A React-based framework that provides server-side rendering, optimized performance, and routing capabilities, making the website fast and SEO-friendly.  
 
