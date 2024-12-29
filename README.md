@@ -1,5 +1,5 @@
 # Introduction  
-Portfolio website made with Next.js and Tailwind CSS.  
+Portfolio website made with Next.js and Tailwind CSS. It consist of 4 sections i.e. about, skills, projects and contact.
 
 ## Live Link  
 [https://ayushvishwakarma.netlify.app/](https://ayushvishwakarma.netlify.app/)  
